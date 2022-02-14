@@ -17,8 +17,7 @@ Ultimately, the developed pipeline was applied to a dataset of 74 TPA samples in
 
 ---
 
-### **Pipeline Overview**
-[Contribution guidelines for this project](resources/PipelineOverview.png)
+[**Flowchart: Pipeline Overview**](resources/PipelineOverview.png)
 
 ---
 
