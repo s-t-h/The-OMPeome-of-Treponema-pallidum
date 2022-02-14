@@ -1,0 +1,14 @@
+#date=2022/01/30 18:19:39;source=MUSIALv2.0;reference=TP0317;samples=74;variantPositions=12
+Position	Reference	PT_SIF0857	Q3	SHC-0	PT_SIF1348	PT_SIF0697	CZ33	PT_SIF1142	PT_SIF1020	PT_SIF1063	PT_SIF1140	PT_SIF1261	PT_SIF1183	GHA1	NE20	PT_SIF0877_3	A2_2	A2_1	GRA2	SHG-I2	AR2	SS14	SHD-R	PT_SIF1278	PT_SIF1156	PT_SIF1196	B3	NE17	NE19	NE12	NE13	NE14	NE15	SamoaD	PT_SIF0954	AU17	PT_SIF1127	AU15	AU16	PT_SIF0751	AU13	K3	BAL73	PT_SIF1002	PT_SIF1167	PT_SIF1200	PT_SIF1242	SW1	UW1	C3	PT_SIF1280	SW4	SW6	SW8	PT_SIF0908	Dallas	SEA86	CZ27	P3	Chicago	PT_SIF1135	MexicoA	PT_SIF1299	SHE-V	Seattle81	BosniaA	PT_SIF1252	Gauthier	NIC1	NIC2	CDC2	IND1	SAM1	BAL3	Fribourg
+333753	A	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	G	.	.
+333936	T	.	.	C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	C	.	.	C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+333939	C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	G	.	.	G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+333940	G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	T	.	.	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+333944	A	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+334065	G	.	.	.	.	.	.	.	.	.	.	.	.	A	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+334118	A	C	C	C	C	C	.	C	C	C	C	C	C	.	.	C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	C	C	C	C	C	C	C	C	.	C	C	C	C	C	.	C	C	C	C	C	C	.	.	C	C	.	C	C	C	C	.	.	C	.	.	.	.	.	.	.	.
+334152	C	.	.	.	.	.	.	.	.	.	.	.	.	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	T	.	T	.	.	T	T	T	.	T
+334157	A	.	.	.	.	.	.	.	.	.	.	.	.	G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	G	.	G	.	.	G	.	G	.	G
+334161	C	.	.	.	.	.	.	.	.	.	.	.	.	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	T	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	T	.	T	.	.	T	T	T	.	T
+334483	G	A	A	A	A	A	.	A	A	A	A	A	A	.	.	A	A	A	.	A	A	A	A	A	A	A	A	A	.	A	A	.	A	.	A	A	A	A	A	A	.	A	.	A	A	A	A	A	.	A	A	A	A	A	A	.	.	A	A	.	A	A	A	A	.	.	A	.	.	.	.	.	.	.	.
+335482	G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	A	.	.	.	.	.	.	.	.	.

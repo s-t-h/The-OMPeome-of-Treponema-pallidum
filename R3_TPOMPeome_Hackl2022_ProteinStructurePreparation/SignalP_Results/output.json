@@ -1,0 +1,274 @@
+{
+  "INFO": {
+    "failedjobs": 0,
+    "size": 13
+  },
+  "CSV_FILE": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_protein_type.txt",
+  "MATURE_FILE": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_mature.fasta",
+  "GFF_FILE": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output.gff3",
+  "ZIP_FILE": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_all_results.zip",
+  "SEQUENCES": {
+    "TP0011": {
+      "CS_pos": "Cleavage site between pos. 31 and 32: SRA-FS. Probability: 0.1228",
+      "Likelihood": [
+        0.3886,
+        0.0349,
+        0.1953,
+        0.3811
+      ],
+      "Name": "TP0011",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0011_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0011_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0011_pred.txt",
+      "Prediction": "Signal peptide (Sec/SPI)",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    },
+    "TP0131": {
+      "CS_pos": "Cleavage site between pos. 17 and 18: GYA-GV. Probability: 0.5601",
+      "Likelihood": [
+        0.7986,
+        0.0081,
+        0.0657,
+        0.1276
+      ],
+      "Name": "TP0131",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0131_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0131_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0131_pred.txt",
+      "Prediction": "Signal peptide (Sec/SPI)",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    },
+    "TP0133": {
+      "CS_pos": "Cleavage site between pos. 29 and 30: LTT-CD. Probability: 0.6317",
+      "Likelihood": [
+        0.3212,
+        0.0043,
+        0.6457,
+        0.0288
+      ],
+      "Name": "TP0133",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0133_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0133_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0133_pred.txt",
+      "Prediction": "Lipoprotein signal peptide (Sec/SPII)",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    },
+    "TP0136": {
+      "CS_pos": "Cleavage site between pos. 28 and 29: LTT-CD. Probability: 0.9174",
+      "Likelihood": [
+        0.0555,
+        0.0027,
+        0.919,
+        0.0228
+      ],
+      "Name": "TP0136",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0136_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0136_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0136_pred.txt",
+      "Prediction": "Lipoprotein signal peptide (Sec/SPII)",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    },
+    "TP0304": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.0552,
+        0.028,
+        0.0046,
+        0.9122
+      ],
+      "Name": "TP0304",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0304_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0304_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0304_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    },
+    "TP0346": {
+      "CS_pos": "Cleavage site between pos. 15 and 16: VTA-CA. Probability: 0.4347",
+      "Likelihood": [
+        0.3556,
+        0.1035,
+        0.5054,
+        0.0355
+      ],
+      "Name": "TP0346",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0346_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0346_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0346_pred.txt",
+      "Prediction": "Lipoprotein signal peptide (Sec/SPII)",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    },
+    "TP0433": {
+      "CS_pos": "Cleavage site between pos. 38 and 39: LWA-VW. Probability: 0.5163",
+      "Likelihood": [
+        0.5698,
+        0.016,
+        0.0148,
+        0.3994
+      ],
+      "Name": "TP0433",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0433_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0433_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0433_pred.txt",
+      "Prediction": "Signal peptide (Sec/SPI)",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    },
+    "TP0462": {
+      "CS_pos": "Cleavage site between pos. 51 and 52: LTG-CD. Probability: 0.8496",
+      "Likelihood": [
+        0.0785,
+        0.0071,
+        0.8502,
+        0.0642
+      ],
+      "Name": "TP0462",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0462_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0462_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0462_pred.txt",
+      "Prediction": "Lipoprotein signal peptide (Sec/SPII)",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    },
+    "TP0488": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.0199,
+        0.0039,
+        0.0057,
+        0.9705
+      ],
+      "Name": "TP0488",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0488_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0488_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0488_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    },
+    "TP0493": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.002,
+        0.0005,
+        0.0003,
+        0.9973
+      ],
+      "Name": "TP0493",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0493_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0493_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0493_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    },
+    "TP0558": {
+      "CS_pos": "Cleavage site between pos. 25 and 26: VLA-NP. Probability: 0.4873",
+      "Likelihood": [
+        0.5213,
+        0.0031,
+        0.47,
+        0.0056
+      ],
+      "Name": "TP0558",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0558_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0558_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0558_pred.txt",
+      "Prediction": "Signal peptide (Sec/SPI)",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    },
+    "TP0705": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.0753,
+        0.0013,
+        0.108,
+        0.8154
+      ],
+      "Name": "TP0705",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0705_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0705_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0705_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    },
+    "TP0751": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.016,
+        0.0011,
+        0.0054,
+        0.9775
+      ],
+      "Name": "TP0751",
+      "Plot_eps": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0751_plot.eps",
+      "Plot_png": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0751_plot.png",
+      "Plot_txt": "/services/SignalP-5.0/tmp/61D880D600007CDFA452402A/output_TP0751_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Signal peptide (Sec/SPI)",
+        "TAT signal peptide (Tat/SPI)",
+        "Lipoprotein signal peptide (Sec/SPII)",
+        "Other"
+      ]
+    }
+  },
+  "FORMAT": "long",
+  "ORG": "Gram-negative"
+}
