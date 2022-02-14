@@ -1,8 +1,10 @@
 # **The OMPeome of Treponema pallidum**
 ### Master Thesis Bioinformatics, Eberhard Karls Universität Tübingen
+
 `Author:    Simon Hackl`
 `Contact:   simon.hackl@uni-tuebingen.de`
 `Period:    August 16, 2021 to February 16, 2022`
+
 ---
 `This repository serves as cloud storage for supplementary information of the thesis.`
 
